@@ -32,7 +32,8 @@ UI自動のサンプルコードです。
 2. デバッグビルド
 3. 出力結果をダウンロード
 4. test/app-debug.apk として配置
-5. testディレクトリで pytest test_android.py 実行
+5. Appiumサーバ起動
+6. testディレクトリで pytest test_android.py 実行
 
 ## LICENSE
 
